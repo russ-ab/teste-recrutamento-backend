@@ -72,6 +72,7 @@ Utilize **MySQL** para armazenar os dados.
 
 Página de Login com campo usuário e senha.
 
+---
 
 #### PRODUTO
 
@@ -80,30 +81,23 @@ Página de Login com campo usuário e senha.
 
 Listagem dos produtos exibindo o ID, Nome,Categoria, Preco e Quantidade de Estoque. A listagem deverá ter paginação.
 
----
-
 `Cadastro de Produto`
 
 Formulário de cadastro com os campos do produto
-
----
 
 `Edição de Produto`
 
 Formulário de edição com os campos do produto
 
----
-
 `Excluir Produto`
 
 Um botão de deletar na listagem de produtos onde o usuário poderá excluir o produto cadastrado.
-
----
 
 `Filtro de Pesquisa na Listagem de Produto`
 
 A Listagem de Produto deverá conter um filtro por **Nome do Produto** e pela **Categoria**.
 
+---
 
 #### CATEGORIA
 
@@ -112,23 +106,19 @@ A Listagem de Produto deverá conter um filtro por **Nome do Produto** e pela **
 
 Listagem das categorias do produtos apenas com paginação.
 
----
-
 `Cadastro de Categoria de Produto`
 
 Formulário de cadastro com os campos da categoria do produto
-
----
 
 `Edição de Categoria de Produto`
 
 Formulário de edição com os campos da categoria do produto
 
----
-
 `Excluir  Categoria de Produto`
 
 Um botão de deletar na listagem de categorias de produtos onde o usuário poderá excluir a categoria cadastrada.
+
+---
 
 #### CONTROLE DE ESTOQUE
 
@@ -136,13 +126,9 @@ Um botão de deletar na listagem de categorias de produtos onde o usuário poder
 
 Listagem de entrada e saída dos produtos exibindo o ID, Nome do produto, Categoria, Tipo(Entrada ou saída), Quantidade e Usuário que lancou o registro. A listagem deverá ter paginação.
 
----
-
 `Cadastro de Entrada`
 
 Formulário de cadastro de entrada, deverá informa o produto, a nota fiscal e a quantidade.
-
----
 
 `Cadastro de Saída`
 
