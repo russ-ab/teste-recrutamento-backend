@@ -50,12 +50,13 @@ data_criacao:       datetime
 data_alteracao:     datetime
 ```
 
-Estoque:
+Registro:
 ```
 nota_fiscal:        string
 referencia:         string
 produto_id:         int
 quantidade:         int
+tipo:               (escolha o campo que se encaixa melhor para esta coluna, veja alguma forma de informar se é um registro de entrada ou saída)
 id_usuario_logado   int
 data_criacao:       datetime
 data_alteracao:     datetime
