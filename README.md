@@ -66,11 +66,15 @@ Utilize **MySQL** para armazenar os dados.
 
 ### Funcionalidades da Aplicação
 
-- `Login`
+#### LOGIN
+
+`Login`
 
 Página de Login com campo usuário e senha.
 
----
+
+#### PRODUTO
+
 
 `Listagem de Produto`
 
@@ -100,7 +104,9 @@ Um botão de deletar na listagem de produtos onde o usuário poderá excluir o p
 
 A Listagem de Produto deverá conter um filtro por **Nome do Produto** e pela **Categoria**.
 
----
+
+#### CATEGORIA
+
 
 `Listagem de Categoria de Produto`
 
@@ -124,7 +130,7 @@ Formulário de edição com os campos da categoria do produto
 
 Um botão de deletar na listagem de categorias de produtos onde o usuário poderá excluir a categoria cadastrada.
 
----
+#### CONTROLE DE ESTOQUE
 
 `Listagem de entrada e saida`
 
@@ -140,7 +146,7 @@ Formulário de cadastro de entrada, deverá informa o produto, a nota fiscal e a
 
 `Cadastro de Saída`
 
-Formulário de cadastro de saida deverá informar o produto, o código de referencia e a quantidade.
+Formulário de cadastro de saida deverá informar o produto, o código de referência e a quantidade.
 
 
 ---
