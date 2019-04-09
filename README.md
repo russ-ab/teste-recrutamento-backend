@@ -37,7 +37,7 @@ Produto:
 ```
 nome:               string
 preco:              string
-quantidade_estoque: int
+quantidade_estoque: int ## O valor deve ser: Total de entradas do produto - Total de saídas do produto
 categoria_id:       int
 data_criacao:       datetime
 data_alteracao:     datetime
